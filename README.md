@@ -1,6 +1,4 @@
 # Library Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
 ## screenshots
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/librarymanagement/blob/master/static/screenshots/homepage.png?raw=true)
@@ -10,9 +8,7 @@
 ![invoice snap](https://github.com/sumitkumar1503/librarymanagement/blob/master/static/screenshots/availablebook.png?raw=true)
 ### Issue Book
 ![doctor snap](https://github.com/sumitkumar1503/librarymanagement/blob/master/static/screenshots/issuebook.png?raw=true)
-### Issued Book
-![doctor snap](https://github.com/sumitkumar1503/librarymanagement/blob/master/static/screenshots/bookissued.png?raw=true)
----
+
 ## Functions
 ### Admin
 - Create Admin account and Login.
@@ -56,7 +52,3 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ## Drawbacks/LoopHoles
 - Anyone can be Admin.
 
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
